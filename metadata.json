@@ -1,0 +1,6 @@
+{
+  "name": "WakeSync",
+  "description": "Reliable alarm clock, automated sleep tracking, and immediate post-wake task presentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
